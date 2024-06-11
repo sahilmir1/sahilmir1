@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-Hi! I'm Sahil and I am a junior full stack developer. My main passion is web development but I am also exploring the world of Data Science.
+Hi! I'm Sahil and I am a Full Stack Developer.
 
 ---
 
